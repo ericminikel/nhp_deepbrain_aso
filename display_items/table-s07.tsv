@@ -1,0 +1,73 @@
+meta_region	animal	pk	treatment
+amygdala	2501	3.353422232	Malat1 ASO
+amygdala	2502	21.43610702	Malat1 ASO
+amygdala	2503	12.62764098	Malat1 ASO
+amygdala	2504	10.53108627	Malat1 ASO
+caudate	2501	0.1	Malat1 ASO
+caudate	2502	0.1	Malat1 ASO
+caudate	2503	0.1	Malat1 ASO
+caudate	2504	3.839180169	Malat1 ASO
+cerebellar cortex	2501	3.145022698	Malat1 ASO
+cerebellar cortex	2502	13.82741413	Malat1 ASO
+cerebellar cortex	2503	48.56326324	Malat1 ASO
+cerebellar cortex	2504	23.67646446	Malat1 ASO
+cervical cord	2501	2.114304207	Malat1 ASO
+cervical cord	2502	14.98730439	Malat1 ASO
+cervical cord	2503	20.76657666	Malat1 ASO
+cervical cord	2504	10.70961371	Malat1 ASO
+enthorinal cortex	2501	7.34966185	Malat1 ASO
+enthorinal cortex	2502	42.29325789	Malat1 ASO
+enthorinal cortex	2503	65.60922259	Malat1 ASO
+enthorinal cortex	2504	28.70929064	Malat1 ASO
+frontal cortex	2501	1.541553667	Malat1 ASO
+frontal cortex	2502	31.42406601	Malat1 ASO
+frontal cortex	2503	73.73092779	Malat1 ASO
+frontal cortex	2504	33.21008535	Malat1 ASO
+globus palidus	2501	2.005794722	Malat1 ASO
+globus palidus	2502	0.262840899	Malat1 ASO
+globus palidus	2503	7.232998784	Malat1 ASO
+globus palidus	2504	1.223583973	Malat1 ASO
+hippocampus	2501	1.187480502	Malat1 ASO
+hippocampus	2502	17.13452208	Malat1 ASO
+hippocampus	2503	26.25942423	Malat1 ASO
+hippocampus	2504	16.17121339	Malat1 ASO
+insular cortex	2501	5.525262748	Malat1 ASO
+insular cortex	2502	36.44727586	Malat1 ASO
+insular cortex	2503	69.65368152	Malat1 ASO
+insular cortex	2504	36.69348223	Malat1 ASO
+lumbar cord	2501	5.877589981	Malat1 ASO
+lumbar cord	2502	23.21769277	Malat1 ASO
+lumbar cord	2503	49.86974125	Malat1 ASO
+lumbar cord	2504	24.41778997	Malat1 ASO
+medulla	2501	1.159554996	Malat1 ASO
+medulla	2502	14.693009870000001	Malat1 ASO
+medulla	2503	19.264185225	Malat1 ASO
+medulla	2504	10.0053175655	Malat1 ASO
+motor cortex	2501	10.58597653	Malat1 ASO
+motor cortex	2502	16.49248104	Malat1 ASO
+motor cortex	2503	48.5597157	Malat1 ASO
+motor cortex	2504	26.23513579	Malat1 ASO
+occipital cortex	2501	8.100669255	Malat1 ASO
+occipital cortex	2502	35.56554541	Malat1 ASO
+occipital cortex	2503	55.82301975	Malat1 ASO
+occipital cortex	2504	39.47561799	Malat1 ASO
+pons	2501	0.588450946	Malat1 ASO
+pons	2502	13.54156981	Malat1 ASO
+pons	2503	23.26074381	Malat1 ASO
+pons	2504	14.37719625	Malat1 ASO
+putamen	2501	0.1	Malat1 ASO
+putamen	2502	0.1	Malat1 ASO
+putamen	2503	4.360572402	Malat1 ASO
+putamen	2504	0.1	Malat1 ASO
+temporal cortex	2501	2.083117255	Malat1 ASO
+temporal cortex	2502	23.61155381	Malat1 ASO
+temporal cortex	2503	48.59640482	Malat1 ASO
+temporal cortex	2504	28.11354191	Malat1 ASO
+thalamus	2501	3.551995586	Malat1 ASO
+thalamus	2502	8.912781725	Malat1 ASO
+thalamus	2503	16.82949741	Malat1 ASO
+thalamus	2504	23.51742337	Malat1 ASO
+thoracic cord	2501	2.604063856	Malat1 ASO
+thoracic cord	2502	18.55581363	Malat1 ASO
+thoracic cord	2503	30.89795322	Malat1 ASO
+thoracic cord	2504	19.70674923	Malat1 ASO

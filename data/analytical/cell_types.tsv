@@ -1,0 +1,16 @@
+x	category	color	cell_type	best_marker
+1	neuron	#FCDC3B	excitatory	RXFP1
+1	neuron	#FED770	SPN	DRD2
+2	neuron	#FEB24B	fast-spiking IN	PVALB
+3	neuron	#FD723C	somatostatin IN	SST
+4	neuron	#FC5E2A	MB-derived IN	OTX2
+5	glia	#60AFFE	microglia	C1QA
+6	glia	#1D91C0	OPC	PDGFRA
+7	glia	#3DA7BE	COP/NFOL	IFI44L
+8	glia	#5EB9BD	oligodendrocyte	MOBP
+9	glia	#7FCDBB	astrocyte	AQP4
+10	glia	#9EEE92	radial glia	VIM
+10	other	#9EEE92	ependymal	ARMC3
+11	other	#CE5EA8	macrophage	MS4A7
+12	other	#E7298A	fibroblast	DCN
+13	other	#DF65B0	endothelial stalk	FLT1

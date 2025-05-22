@@ -1,0 +1,21 @@
+assigned	cell_type
+excitatory	excitatory
+SPN	SPN
+fast-spiking IN	fast-spiking IN
+somatostatin IN	somatostatin IN
+MB-derived IN	MB-derived IN
+COP/NFOL	COP/NFOL
+OPC	OPC
+astro	astrocyte
+astrocyte	astrocyte
+astrocytes	astrocyte
+endothelial	endothelial stalk
+endothelial stalk	endothelial stalk
+exclude-doublets	exclude
+exclude-mitochondria	exclude
+fibroblast	fibroblast
+macrophages	macrophage
+microglia	microglia
+oligodendrocyte	oligodendrocyte
+radial	radial glia
+ependymal	ependymal

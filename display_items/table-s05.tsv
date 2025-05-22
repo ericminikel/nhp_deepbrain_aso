@@ -1,0 +1,13 @@
+tissue	color	ic50	disp
+cerebellum	#FDC086	4.330068777274584	cerebellum    4.33 µg/g
+hypothalamus	#F0027F	3.669231674728405	hypothalamus  3.67 µg/g
+thalamus	#386CB0	1.592153395727104	thalamus      1.59 µg/g
+lumbar cord	#7570B3	1.3154353045062592	lumbar cord   1.32 µg/g
+brainstem	#BEAED4	0.6808586526729657	brainstem     0.68 µg/g
+cortex 4	#7FC97F	0.5202579259348626	cortex 4      0.52 µg/g
+cortex 3	#E6AB02	0.44596057644354903	cortex 3      0.45 µg/g
+cervical cord	#1B9E77	0.44510113554685116	cervical cord 0.45 µg/g
+hippocampus	#FFFF99	0.30584195276381093	hippocampus   0.31 µg/g
+thoracic cord	#D95F02	0.29147166819183085	thoracic cord 0.29 µg/g
+cortex 1	#E7298A	0.21765805980974032	cortex 1      0.22 µg/g
+cortex 2	#66A61E	0.0873244180204083	cortex 2      0.09 µg/g

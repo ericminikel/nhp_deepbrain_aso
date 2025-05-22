@@ -1,0 +1,33 @@
+region	cell_type	1501	1502	2501	2502	2503	2504
+thalamus	excitatory	3	3	8	1780	2	19
+thalamus	fast-spiking IN	1036	913	5	2	840	976
+thalamus	somatostatin IN	922	11	1474	1782	130	340
+thalamus	MB-derived IN	482	550	22	3	469	462
+thalamus	microglia	473	337	301	468	404	379
+thalamus	OPC	536	390	360	552	371	514
+thalamus	COP/NFOL	43	24	25	52	34	29
+thalamus	oligodendrocyte	3575	2225	2178	1910	2956	2451
+thalamus	astrocyte	1274	1250	461	1546	1049	1400
+thalamus	ependymal	4	1	170	0	0	2
+thalamus	fibroblast	11	3	72	77	9	10
+thalamus	endothelial stalk	159	81	85	110	118	160
+caudate	SPN	0	948	10	504	2520	2278
+caudate	fast-spiking IN	1853	449	779	160	28	144
+caudate	somatostatin IN	12	210	65	124	177	438
+caudate	MB-derived IN	1041	128	267	51	2	27
+caudate	microglia	539	420	464	285	265	322
+caudate	OPC	485	427	409	328	374	416
+caudate	COP/NFOL	32	34	30	43	24	29
+caudate	oligodendrocyte	2466	2842	2788	2813	1725	2036
+caudate	astrocyte	1444	1397	1032	721	817	949
+caudate	radial glia	0	70	4	64	0	36
+caudate	endothelial stalk	105	68	92	35	55	74
+putamen	SPN	1127	1230	3741	1	1972	3574
+putamen	fast-spiking IN	459	309	285	1538	231	369
+putamen	MB-derived IN	5	8	10	517	5	6
+putamen	microglia	314	536	360	253	494	320
+putamen	OPC	264	436	308	394	371	414
+putamen	COP/NFOL	28	47	28	47	44	25
+putamen	oligodendrocyte	2495	3601	2560	3268	3137	2272
+putamen	astrocyte	1255	1656	1264	1999	1294	1405
+putamen	endothelial stalk	94	77	131	101	104	87

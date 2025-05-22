@@ -1,0 +1,16 @@
+cell_type	n	n_regions	which_regions
+COP/NFOL	618	3	thalamus, caudate, putamen
+MB-derived IN	4055	3	thalamus, caudate, putamen
+OPC	7349	3	thalamus, caudate, putamen
+SPN	17905	2	caudate, putamen
+astrocyte	22213	3	thalamus, caudate, putamen
+endothelial stalk	1736	3	thalamus, caudate, putamen
+ependymal	177	1	thalamus
+excitatory	1815	1	thalamus
+exclude	4036	3	thalamus, caudate, putamen
+fast-spiking IN	10376	3	thalamus, caudate, putamen
+fibroblast	182	1	thalamus
+microglia	6934	3	thalamus, caudate, putamen
+oligodendrocyte	47298	3	thalamus, caudate, putamen
+radial glia	174	1	caudate
+somatostatin IN	5685	2	thalamus, caudate

@@ -1,0 +1,7 @@
+sample_id,molecule_h5
+1501_putamen,/cromwell_root/1501_putamen/molecule_info.h5
+1502_putamen,/cromwell_root/1502_putamen/molecule_info.h5
+2501_putamen,/cromwell_root/2501_putamen/molecule_info.h5
+2502_putamen,/cromwell_root/2502_putamen/molecule_info.h5
+2503_putamen,/cromwell_root/2503_putamen/molecule_info.h5
+2504_putamen,/cromwell_root/2504_putamen/molecule_info.h5

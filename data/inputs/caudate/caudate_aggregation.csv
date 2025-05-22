@@ -1,0 +1,7 @@
+sample_id,molecule_h5
+1501_caudate,/cromwell_root/1501_caudate/molecule_info.h5
+1502_caudate,/cromwell_root/1502_caudate/molecule_info.h5
+2501_caudate,/cromwell_root/2501_caudate/molecule_info.h5
+2502_caudate,/cromwell_root/2502_caudate/molecule_info.h5
+2503_caudate,/cromwell_root/2503_caudate/molecule_info.h5
+2504_caudate,/cromwell_root/2504_caudate/molecule_info.h5
